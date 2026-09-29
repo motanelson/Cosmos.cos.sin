@@ -1,2 +1,2 @@
-virtual machine python java runing gui
+cosmos sin cos kernel
 
